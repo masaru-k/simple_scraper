@@ -1,0 +1,32 @@
+Event_Type,woba_value
+Strikeout,0
+Groundout,0
+Flyout,0
+Double,1.25
+Sac Fly,0
+Pop Out,0
+Walk,0.7
+Forceout,0
+Single,0.9
+Grounded Into DP,0
+Home Run,2
+Lineout,0
+Hit By Pitch,0.7
+Triple,1.6
+Field Error,0
+Strikeout - DP,0
+Sac Bunt,0
+Intent Walk,0.7
+Runner Out,0
+Bunt Pop Out,0
+Double Play,0
+Bunt Groundout,0
+Fielders Choice Out,0
+Batter Interference,0
+Fielders Choice,0
+Sac Fly DP,0
+Triple Play,0
+Fan interference,0
+Catcher Interference,0
+Bunt Lineout,0
+Sacrifice Bunt DP,0
